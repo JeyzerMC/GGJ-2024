@@ -20,8 +20,13 @@ Dialogic="*res://addons/dialogic/Other/DialogicGameHandler.gd"
 
 [dialogic]
 
-directories/dch_directory={}
-directories/dtl_directory={}
+directories/dch_directory={
+"lion": "res://Dialogic/Characters/lion.dch",
+"pepe": "res://Assets/BG/pepe.dch"
+}
+directories/dtl_directory={
+"timeline": "res://timeline.dtl"
+}
 
 [editor_plugins]
 
