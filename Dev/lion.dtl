@@ -1,0 +1,64 @@
+[background arg="res://Assets/BG/bg.png" fade="0.0"]
+join pepe 1
+join lion 1 [animation="Zoom In"]
+pepe: How do I approach this lion?
+- Hi Elionse, how are you?
+	lion (normal): good and you?
+	pepe (happy): That's good to hear. I couldn't stop looking at you during the class.
+- You're a 9/10 and i'm the 1 you need
+	lion (angry): do you still use pickup line? 
+	lion (angry): I am not an object! 
+	lion (angry): Please go away !!!
+	You have annoyed your interlocutor. 
+	But the lion has no memory, so you can try again.
+	[end_timeline]
+pepe (normal): It's almost noon! How about going...
+How about suggesting to go grab a bite to eat?
+- How about having a salad at the cafeteria?
+	lion (angry): At the cafeteria, they only sell mass-produced coffee that doesn't adhere to fair trade principles. Do you go there often?
+	What do you answer?
+	- Oh, occasionally when I've spent too much time gaming and need a coffee.
+	- Never, but I just wanted to find a nearby place to chill.
+	lion (normal): ok..
+- How about going out to try the new sandwich?
+	lion: Chicken Machville?
+	- Yes, I've tried it with friends, it's sooooo good!
+		lion (angry): But you disgust me, how can you eat animal meat?
+		lion (angry): Please go away !!!
+		You have annoyed your interlocutor. 
+		But the lion has no memory, so you can try again.
+		[end_timeline]
+	- There are plenty of other options if you don't like chicken.
+		lion: If there's a vegetarian option, I don't mind.
+pepe: I really like your style, it reminds me of a friend from Congo. Are you from there?
+lion: No, I'm from California, but I did a humanitarian trip to Zimbabwe.
+pepe: I love the concept! How did it come to you?
+After reading the book Eat Pray Love, you know?
+- Yes, I've read the book; it's truly a classic
+	lion: You have good taste
+- I watched the movie.. I'm not much into reading.
+	lion (angry): There are more details in the book...
+- no
+	lion (angry): You're really not very cultured.
+	Eat, Pray, Love" is a book written by Elizabeth Gilbert. It chronicles the author's year-long journey, exploring Italy for food, India for spirituality, and Indonesia for love. The book delves into themes of self-discovery, emotional healing, and the pursuit of happiness
+lion: You smell good, are you wearing perfume?
+lion: Of course not. I don't use any chemical products.
+- But everything is chemical.
+	lion (angry): I don't know what you're talking about...
+- It's true that I should be careful, but I already use organic products for my dishes!
+	lion: Organic products? I make my own laundry detergent and wash it in a cooking pot to avoid overusing energy.
+pepe: So, do you want to go out together?
+lion: I need to check with Tom and Elise.
+pepe: How so? Do you need their approval?
+lion: We're free, but I still want to talk to them about it
+pepe: Wait, what?
+pepe: Are you two together?
+lion: Yes, we're polyamorous. Does that bother you?
+- Of course not. Who am I to impose myself as the lighthouse of your existence?
+	lion: Perfect ! 
+- Well, I thought we could be a normal couple.
+	lion (angry): What is normal in this patriarchal world?
+	lion (angry): Please go away !!!
+	You have annoyed your interlocutor. 
+	But the lion has no memory, so you can try again.
+Congratulations! You've won over the lion.

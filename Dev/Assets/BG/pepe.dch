@@ -13,14 +13,32 @@
 "display_name": "pepe",
 "mirror": false,
 "nicknames": [""],
-"offset": Vector2(0, 0),
+"offset": Vector2(600, -200),
 "portraits": {
+"angry": {
+"export_overrides": {
+"image": "\"res://Assets/CHARACTERS/pepe2.png\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.5,
+"scene": ""
+},
+"happy": {
+"export_overrides": {
+"image": "\"res://Assets/CHARACTERS/pepe3.jpg\""
+},
+"mirror": false,
+"offset": Vector2(0, 0),
+"scale": 0.5,
+"scene": ""
+},
 "normal": {
 "export_overrides": {
 "image": "\"res://Assets/CHARACTERS/pepe.jpg\""
 },
 "mirror": false,
-"offset": Vector2(600, -200),
+"offset": Vector2(0, 0),
 "scale": 0.5,
 "scene": ""
 }

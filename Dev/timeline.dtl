@@ -1,6 +1,0 @@
-[background arg="res://Assets/BG/bg.png" fade="0.0"]
-hello world !
-join lion 1 [animation="Zoom In"]
-lion: ....
-join pepe 1
-pepe: hola !!!!!
